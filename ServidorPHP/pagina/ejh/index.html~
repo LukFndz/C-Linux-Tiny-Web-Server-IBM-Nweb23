@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>index.html</h2>
+<p>Imagen:</p>
+
+<img src="imagen.jpg" alt="Error" width="104" height="142">
+
+</body>
+</html>
